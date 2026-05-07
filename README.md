@@ -17,16 +17,16 @@
 
 <p align="center">
   <!-- 这里用徽章模拟进度条，非常整齐 -->
-  <img src="https://img.shields.io/badge/摸鱼-100%25-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/想下班-20%25-FF6347?style=flat-square" />
-  <img src="https://img.shields.io/badge/咖啡-80%25-8B4513?style=flat-square" />
+  <img src="https://img.shields.io/badge/肝游戏-100%25-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/睡觉-20%25-FF6347?style=flat-square" />
+  <img src="https://img.shields.io/badge/喝水-80%25-8B4513?style=flat-square" />
 </p>
 
 <p align="center">
   <sub>
     <strong>状态机：</strong> 
-    <code>[██████████]</code> 已摸鱼 | 
-    <code>[▓▓░░░░░░░░]</code> 想下班 | 
+    <code>[██████████]</code> 肝游戏 | 
+    <code>[▓▓░░░░░░░░]</code> 睡过 | 
     <code>[▓▓▓▓▓▓▓▓░░]</code> 已摄入
   </sub>
 </p>
