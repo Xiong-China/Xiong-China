@@ -33,7 +33,7 @@
 
 <!-- 这里放一个 GitHub 贡献图，看起来很努力 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiong-China&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/Xiong-China" alt="GitHub Stats" />
 </p>
 
 <!-- 第二部分：语言统计（假装精通很多） -->
