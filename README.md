@@ -72,13 +72,6 @@
 - **减肥**：░░░░░░░░░░ 0% (刚才吃宵夜了)
 - **戒掉熬夜**：███████░░░ 70% (白天睡觉也算睡觉)
 
-<!-- 第五部分：升级版终端模拟器（动态代码雨） -->
-## 💻 终端模拟器
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=33FF33&center=true&vCenter=true&width=600&height=160&lines='rm -rf /*'" />
-</p>
-
 <!-- 底部：结束 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=100&section=footer&text=Goodbye.&fontSize=30&animation=fadeIn" />
