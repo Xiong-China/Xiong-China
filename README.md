@@ -1,6 +1,6 @@
 <!-- 顶部 Banner：低饱和度的疲惫感 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=200&section=header&text=System%20Idle&fontSize=50&fontAlignY=35&desc=Nothing%20to%20see%20here.%20Just%20waiting%20for%20the%20build%20to%20pass.&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=200&section=header&text=感谢你发现了我&fontSize=50&fontAlignY=35&desc=你有时间能带带我最好了，我学习很快的哟&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- 动态打字机：循环播放一些无聊的状态 -->
