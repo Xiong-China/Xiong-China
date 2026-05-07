@@ -6,10 +6,6 @@
 <!-- 动态打字机：循环播放一些无聊的状态 -->
 <h3 align="center">📡 当前连接状态：不稳定</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=888888&center=true&vCenter=true&width=600&lines=正在编译...+(预计剩余时间：永远);思考人生意义...+(Error%3A+404+Not+Found);下载进度条卡在99%25...;系统一切正常，除了我。" alt="Typing SVG" />
-</p>
-
 <hr/>
 
 <!-- 第一部分：详细的废话（已修复排版） -->
@@ -17,15 +13,15 @@
 
 <p align="center">
   <!-- 这里用徽章模拟进度条，非常整齐 -->
-  <img src="https://img.shields.io/badge/肝游戏-100%25-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/肝游戏-50%25-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/睡觉-20%25-FF6347?style=flat-square" />
-  <img src="https://img.shields.io/badge/喝水-80%25-8B4513?style=flat-square" />
+  <img src="https://img.shields.io/badge/喝水-30%25-8B4513?style=flat-square" />
 </p>
 
 <p align="center">
   <sub>
     <strong>状态机：</strong> 
-    <code>[██████████]</code> 肝游戏 | 
+    <code>[▓▓▓▓      ]</code> 肝游戏 | 
     <code>[▓▓░░░░░░░░]</code> 睡过 | 
     <code>[▓▓▓▓▓▓▓▓░░]</code> 已摄入
   </sub>
