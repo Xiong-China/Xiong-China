@@ -62,38 +62,24 @@
 
 <!-- 第五部分：ASCII 艺术 -->
 ## 💻 终端模拟器
-``
-bash
-$ whoami
-just_a_coder
-$ ls -la ~/projects/
-drwxr-xr-x 2 user user 4096 May 7 22:00 abandoned_projects/
-drwxr-xr-x 2 user user 4096 May 7 22:00 ideas_that_wont_work/
--rw-r--r-- 1 user user 0 May 7 22:00 TODO.md
-$ cat /proc/status
-Status: Bored
-CPU: 1% (99% used by Chrome)
-RAM: Full (mostly cat videos)
-$ exit
-``
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=33FF33&center=true&vCenter=true&width=600&height=160&lines=..." />
+</p>
 
 <!-- 第六部分：访客计数（唯一的动态数据） -->
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xiong-China&label=页面浏览次数&color=blue&style=flat-square" alt="访客计数" />
+  <img src="https://komarev.com/ghpvc/?username=Xiong-China&label=浏览次数&color=blue&style=flat-square" alt="访客计数" />
   <img src="https://img.shields.io/badge/Status-Online-green?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Mood-Meow-orange?style=flat-square" alt="Mood" />
 </p>
 
-<!-- 第七部分：随机梗图（通过 API 调用，每次刷新都不一样） -->
-## 🎲 随机刷新区
+<!-- 第七部分：修复后的随机语录（使用极其稳定的 zenquotes API） -->
+## 🎲 随机清醒语录
 
 <p align="center">
-  <img src="https://api.quotable.io/random?format=svg&color=888888" alt="随机名言" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="程序员笑话" />
+  <img src="https://corsproxy.io/?url=https%3A%2F%2Fzenquotes.io%2Fapi%2Frandom%2Fimage" alt="随机名言" />
 </p>
 
 <!-- 底部：结束 -->
