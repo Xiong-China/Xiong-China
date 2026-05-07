@@ -70,7 +70,7 @@
 
 <!-- 底部：结束 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=100&section=footer&text=Goodbye.&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=100&section=footer&text=叫我熊哥&fontSize=30&animation=fadeIn" />
 </p>
 
 <p align="center">
