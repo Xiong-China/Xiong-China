@@ -40,7 +40,7 @@
 ## 🛠️ 技术栈（仅限理论）
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,go,c,cpp,java,html,css,nodejs,react,vue,angular,docker,k8s,aws,linux,git,vim,md,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,docker,k8s,aws,linux,git,vim,md,nginx,gmail,twitter,vscode,windows" />
 </p>
 
 <details>
