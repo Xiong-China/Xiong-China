@@ -1,4 +1,4 @@
-<!-- 顶部 Banner：看起来很忙，其实只是个图 -->
+<!-- 顶部 Banner：低饱和度的疲惫感 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=200&section=header&text=System%20Idle&fontSize=50&fontAlignY=35&desc=Nothing%20to%20see%20here.%20Just%20waiting%20for%20the%20build%20to%20pass.&descAlignY=60&animation=twinkling" />
 </p>
@@ -12,12 +12,24 @@
 
 <hr/>
 
-<!-- 第一部分：详细的废话 -->
+<!-- 第一部分：详细的废话（已修复排版） -->
 ## 📈 今日生产力报告
 
-> **状态**：`[██████████] 100%` 赛博杨威
-> **心情**：`[▓▓░░░░░░░░] 20%` 找不到游戏玩 
-> **咖啡**：`[▓▓▓▓▓▓▓▓░░] 80%` 未摄入
+<p align="center">
+  <!-- 这里用徽章模拟进度条，非常整齐 -->
+  <img src="https://img.shields.io/badge/摸鱼-100%25-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/想下班-20%25-FF6347?style=flat-square" />
+  <img src="https://img.shields.io/badge/咖啡-80%25-8B4513?style=flat-square" />
+</p>
+
+<p align="center">
+  <sub>
+    <strong>状态机：</strong> 
+    <code>[██████████]</code> 已摸鱼 | 
+    <code>[▓▓░░░░░░░░]</code> 想下班 | 
+    <code>[▓▓▓▓▓▓▓▓░░]</code> 已摄入
+  </sub>
+</p>
 
 <!-- 这里放一个 GitHub 贡献图，看起来很努力 -->
 <p align="center">
@@ -28,7 +40,7 @@
 ## 🛠️ 技术栈（仅限理论）
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,rust,html,css,nodejs,docker,linux,git,vim,md,nginx,alpine" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,go,c,cpp,java,html,css,nodejs,react,vue,angular,docker,k8s,aws,linux,git,vim,md,nginx" />
 </p>
 
 <details>
@@ -36,7 +48,7 @@
   <br>
   <ul>
     <li><b>前端</b>：会写 <code>console.log('Hello World')</code>，剩下的交给 AI。</li>
-    <li><b>后端</b>：经常研究，从不公开。</li>
+    <li><b>后端</b>：擅长设计数据库表，但不擅长写业务逻辑。</li>
     <li><b>运维</b>：精通 <code>sudo rm -rf /</code> 的拼写。</li>
     <li><b>AI</b>：只会调 API，不懂算法。</li>
   </ul>
@@ -47,10 +59,10 @@
 
 | 时间段 | 活动 | 产出 | 备注 |
 | :--- | :--- | :--- | :--- |
-| **06:00 - 11:00** | 开机 & 玩电脑 | `开心 x 10` | 系统启动中 |
-| **11:00 - 13:00** | 吃饭 & 看电影或电视剧或综艺 | `卡路里 + 500` | 血糖升高 |
-| **13:00 - 20:00** | 有可能在睡觉 | `睡眠质量 x 1` | 毫无意义 |
-| **20:00 - 02:00** | 夜间生活 & 玩电脑 | `废物 = 5` | 明天继续 |
+| **06:00 - 11:00** | 开机 & 玩游戏 | `OW2 & 燕云十六声 & Steam平台游戏` | 就是肝 |
+| **11:00 - 14:00** | 看片 & 吃饭 | `电视剧 + 3集 & 卡路里 +500` | 已看到电视剧 |
+| **14:00 - 20:00** | 有可能睡觉 | `睡眠质量稀松` | 补充昨晚睡眠质量 |
+| **20:00 - 02:00** | 开机 & 玩游戏 | `OW2 & 燕云十六声 & Steam平台游戏` | 就是肝 |
 
 <!-- 第四部分：无聊的进度条 -->
 ## 🎯 长期目标追踪
@@ -60,7 +72,7 @@
 - **减肥**：░░░░░░░░░░ 0% (刚才吃宵夜了)
 - **戒掉熬夜**：███████░░░ 70% (白天睡觉也算睡觉)
 
-<!-- 第五部分：ASCII 艺术 -->
+<!-- 第五部分：升级版终端模拟器（动态代码雨） -->
 ## 💻 终端模拟器
 
 <p align="center">
