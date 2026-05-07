@@ -76,7 +76,7 @@
 ## 💻 终端模拟器
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=33FF33&center=true&vCenter=true&width=600&height=160&lines=rm -rf /*" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=33FF33&center=true&vCenter=true&width=600&height=160&lines='rm -rf /*'" />
 </p>
 
 <!-- 底部：结束 -->
