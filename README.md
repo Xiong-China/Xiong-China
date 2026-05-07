@@ -21,9 +21,9 @@
 <p align="center">
   <sub>
     <strong>状态机：</strong> 
-    <code>[▓▓▓▓      ]</code> 肝游戏 | 
+    <code>[▓▓▓▓▓░░░░░]</code> 肝游戏 | 
     <code>[▓▓░░░░░░░░]</code> 睡过 | 
-    <code>[▓▓▓▓▓   ░░]</code> 已摄入
+    <code>[▓▓▓▓▓░░░░░]</code> 已摄入
   </sub>
 </p>
 
